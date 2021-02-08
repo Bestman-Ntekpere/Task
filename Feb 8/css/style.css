@@ -1,0 +1,24 @@
+ul li{
+    list-style-type: none;
+    background-color: #fff;
+    display: inline;
+    margin-left: 70px;
+    
+}
+div{
+    background-color: #000fff;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    width: 380px;
+    height: 300px;
+    padding-right: 800px;
+    margin-left: 100px;
+}
+h1 {
+  padding-left: 25rem 3rem 25rem;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  
+   
+}
